@@ -2,7 +2,7 @@
 Logiciel de trésorerie de l'AEES
 
 
-## \[BETA RELEASE] Roadmap 
+## Roadmap 
 - [ ] Logo
 - [ ] Sheet edition/addition/supression
 - [ ] DB synchronization mechanisms (server.aees.be)

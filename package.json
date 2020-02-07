@@ -1,0 +1,22 @@
+{
+  "name": "trezau",
+  "version": "1.0.0",
+  "description": "Logiciel de trésorerie de l'AEES",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PixelWeaver/Trez-Au.git"
+  },
+  "author": "PixelWeaver",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PixelWeaver/Trez-Au/issues"
+  },
+  "homepage": "https://github.com/PixelWeaver/Trez-Au#readme",
+  "devDependencies": {
+    "electron": "^8.0.0"
+  }
+}
